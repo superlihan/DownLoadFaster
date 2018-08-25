@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadFaster", "DownloadFaster\DownloadFaster.csproj", "{23BCCCDB-31E2-44D5-B82D-1432444F2C74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DownloadFaster", "DownloadFaster\DownloadFaster.csproj", "{23BCCCDB-31E2-44D5-B82D-1432444F2C74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
